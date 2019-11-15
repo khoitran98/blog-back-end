@@ -1,0 +1,3 @@
+/Users/trandangkhoi/BackEnd/Blog.API/obj/Debug/netcoreapp3.0/Blog.API.csprojAssemblyReference.cache
+/Users/trandangkhoi/BackEnd/Blog.API/obj/Debug/netcoreapp3.0/Blog.API.AssemblyInfoInputs.cache
+/Users/trandangkhoi/BackEnd/Blog.API/obj/Debug/netcoreapp3.0/Blog.API.AssemblyInfo.cs

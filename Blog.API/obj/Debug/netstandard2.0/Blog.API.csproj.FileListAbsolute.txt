@@ -1,0 +1,6 @@
+/Users/trandangkhoi/Blog.API/obj/Debug/netstandard2.0/Blog.API.csprojAssemblyReference.cache
+/Users/trandangkhoi/Blog.API/obj/Debug/netstandard2.0/Blog.API.AssemblyInfoInputs.cache
+/Users/trandangkhoi/Blog.API/obj/Debug/netstandard2.0/Blog.API.AssemblyInfo.cs
+/Users/trandangkhoi/BackEnd/Blog.API/obj/Debug/netstandard2.0/Blog.API.csprojAssemblyReference.cache
+/Users/trandangkhoi/BackEnd/Blog.API/obj/Debug/netstandard2.0/Blog.API.AssemblyInfoInputs.cache
+/Users/trandangkhoi/BackEnd/Blog.API/obj/Debug/netstandard2.0/Blog.API.AssemblyInfo.cs
