@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/trandangkhoi/BackEnd/Blog.Model/Blog.Model.csproj",
+      "projectUniqueName": "/Users/trandangkhoi/blog-backend/Blog.Model/Blog.Model.csproj",
       "projectName": "Blog.Model",
-      "projectPath": "/Users/trandangkhoi/BackEnd/Blog.Model/Blog.Model.csproj",
+      "projectPath": "/Users/trandangkhoi/blog-backend/Blog.Model/Blog.Model.csproj",
       "packagesPath": "/Users/trandangkhoi/.nuget/packages/",
-      "outputPath": "/Users/trandangkhoi/BackEnd/Blog.Model/obj/",
+      "outputPath": "/Users/trandangkhoi/blog-backend/Blog.Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/trandangkhoi/.config/NuGet/NuGet.Config"
